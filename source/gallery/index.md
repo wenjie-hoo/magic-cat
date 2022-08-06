@@ -1,5 +1,5 @@
 <body>
-<div id="gallery">
+<div id="gallery" >
    <img class="drawing" src="https://s2.loli.net/2022/08/05/tBJmQDA5ZOhMwN6.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/Qof4unCSsgJdMIR.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/H4Zq6MD9hd7wkgQ.jpg">
@@ -9,7 +9,6 @@
    <img class="drawing" src="https://s2.loli.net/2022/08/05/xAWR8Xe4gUM7IPS.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/JfoUqKOPHuWFnN8.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/RxOIB4mbJuGFqiw.jpg">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/q295JQ6GbrNW7dn.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/r9hAQTGvE64BwP5.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/V6l7kh4Hf3YWZbF.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/NtnoiAk4RE18G9Z.jpg">
@@ -20,11 +19,23 @@
    <img class="drawing" src="https://s2.loli.net/2022/08/05/jWwxUTqFV4uty5J.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/LwWYjsPO3RHapQI.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/sD2kUZ8Ad4IcMXV.jpg">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/OPVdRUZqeBmk63K.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/bD6HA9eVJdLimBq.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/8tIAlG9RLar2wzx.jpg">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/WVNF1RwXbhsLlIG.jpg">
-
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/4BbEZHVXPnpR1Fz.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/ao1C4V5iGXcvmMY.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/PfUSqNa1bXtcDVv.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/qcKutbsn4PBQUhx.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/3AQkP51TOZflueh.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/9Lcqo5wOQztyCih.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/uGoUl9mYEVr47Lt.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/NtnoiAk4RE18G9Z.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/FTfu2jSZtNC9LJP.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/qoGNlDCOTcfxWZu.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/N8HDsYdXBjnbUKR.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/2p5YdJFUC7NGETI.jpg">
+    <img class="drawing" src="https://s2.loli.net/2022/08/05/1OrT4bYstpxk8dJ.jpg">
+   
 </div> 
  </body>
 </html>
@@ -43,6 +54,7 @@
     width: 100% !important;
     height: auto !important;
     filter: grayscale(100%);
+    transition: filter 1s;
     margin-bottom:5px; /* to match column gap */
  }
  @media (max-width: 1200px) {
@@ -61,16 +73,16 @@
  }
  @media (max-width: 800px) {
     #gallery {
-     -moz-column-count:    2;
-     -webkit-column-count: 2;
-     column-count:         2;
+     -moz-column-count:    3;
+     -webkit-column-count: 3;
+     column-count:         3;
     }
  }
  @media (max-width: 400px) {
     #gallery {
-     -moz-column-count:    1;
-     -webkit-column-count: 1;
-     column-count:         1;
+     -moz-column-count:    2;
+     -webkit-column-count: 2;
+     column-count:         2;
     }
  }
 #gallery img:hover {
@@ -119,4 +131,10 @@
             });
         });
     });
+    var cards = $(".drawing");
+    for(var i = 0; i < cards.length; i++){
+    var target = Math.floor(Math.random() * cards.length -1) + 1;
+    var target2 = Math.floor(Math.random() * cards.length -1) +1;
+    cards.eq(target).before(cards.eq(target2));
+}
 </script>

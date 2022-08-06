@@ -16,12 +16,6 @@ Hi!👋 I'm Wenjie(Clark) Hu, a recent computer science graduate from Maynooth U
 				<br/>
 			</center>
 		</td>
-		<!-- <td>
-			<center>
-				<img class='drawing' src="https://s2.loli.net/2022/08/05/FtkcxsI6MSANT9K.jpg" width="100"/>
-				<br/>
-			</center>
-		</td> -->
 	</tr>
 </table>
 
@@ -95,7 +89,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 # Contact
 [wenjie.hoo@outlook.com](mailto:wenjie.hoo@outlook.com)
 
-
+***
 
 <style>
 		*{
