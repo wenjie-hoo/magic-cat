@@ -1,4 +1,4 @@
-Hi!👋 I'm Wenjie(Clark) Hu, a recent computer science graduate from Maynooth University. I'm very interested in self-driving and data science, and most of my experience is in Python and its ecosystem of tools. Other than tech, I like table tennis, hiking and cultural exchange. I currently live in Ireland.
+Hi!👋 I'm Wenjie(Clark) Hu, a recent computer science graduate from Maynooth University. I'm very interested in self-driving and data science, and most of my experience is in Python and its ecosystem of tools. Other than tech, I like playing table tennis, hiking and cultural exchange. I currently live in Ireland.
 <br>
 <table rules="none" align="center">
 	<tr>
