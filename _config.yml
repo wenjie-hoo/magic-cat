@@ -12,8 +12,8 @@ language: en
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://wenjie-hoo.github.io/'
+url: https://wenjie-hoo.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -42,7 +42,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: true
 relative_link: false
-future: false
+future: true
 highlight:
   enable: true
   line_number: true
