@@ -9,7 +9,7 @@ description: Not done yet, I'm trying...
 keywords:
 author: Clark
 language: en
-timezone: ''
+timezone: Europe/Dublin
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://wenjie-hoo.github.io/'
@@ -42,7 +42,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: true
 relative_link: false
-future: true
+future: false
 highlight:
   enable: true
   line_number: true
@@ -102,4 +102,7 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/wenjie-hoo/wenjie-hoo.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: main
