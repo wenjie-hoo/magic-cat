@@ -2,7 +2,7 @@
 title: How I built this blog site
 date: 2022-08-22 23:25:22
 updated: 2022-08-23
-tags:
+tags: tech
 ---
 
 💡 **[Hexo](https://hexo.io/)** is a straightforward and fast blog static site framework with various themes you can select from. The following will introduce how I build this blog site with Hexo and **[hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus).**
