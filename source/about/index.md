@@ -80,9 +80,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 
 # Education
 
-## A Computer Science and Engineering graduate from Maynooth University, Ireland.
-
-- I have accomplished a Natural Language Processing project using the Stanford Parser and NLTK packages.
+## BSc Computer Science & Software Engineering - Maynooth University, Ireland.
 
 ***
 
