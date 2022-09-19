@@ -106,3 +106,4 @@ deploy:
   repo: https://github.com/wenjie-hoo/wenjie-hoo.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
+
