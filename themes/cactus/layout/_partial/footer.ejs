@@ -12,7 +12,7 @@
         <% for (var i in theme.nav) { %><!--
        --><li><a href="<%- url_for(theme.nav[i]) %>"><%= __('nav.'+i).replace("nav.", "") %></a></li><!--
      --><% } %>
-     <span class="post-count">Post word count:<%= totalcount(site) %></span>
+     <span class="post-count">Total words:<%= totalcount(site) %></span>
       </ul>
     </nav>
   </div>
