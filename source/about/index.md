@@ -1,4 +1,4 @@
-Hi!👋 I'm Wenjie(Clark) Hu, a recent computer science graduate from Maynooth University. I'm very interested in self-driving and data science, and most of my experience is in Python and its ecosystem of tools. Other than tech, I like playing table tennis, hiking and cultural exchange. I currently live in Ireland.
+Hi!👋 I am Wenjie(Clark) Hu, currently studying at the Univeristy of Wroclaw in Poland. I am very interested in self-driving and data science, and most of my experience is in Python and its ecosystem of tools. Besides tech, I like playing table tennis, hiking and cultural exchange.
 <br>
 <table rules="none" align="center">
 	<tr>
@@ -81,6 +81,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 # Education
 
 ## BSc Computer Science & Software Engineering - Maynooth University, Ireland.
+## MSc Data Science(expected 2024) - University of Wroclaw, Poland.
 
 ***
 
