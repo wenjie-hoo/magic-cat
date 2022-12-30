@@ -28,6 +28,9 @@
    <img class="drawing" src="https://s2.loli.net/2022/09/10/q7E9BLHOIR2XFMP.jpg" alt="Dublin" title="Dublin, Ireland &#10;2021-09-18">
    <img class="drawing" src="https://s2.loli.net/2022/09/10/pBvVL6NEOQgrtTw.jpg" alt="MU" title="Maynooth,Ireland &#10;2022-09-07">
    <img class="drawing" src="https://s2.loli.net/2022/11/08/osqe7jn23tMHmzR.jpg" alt="L.G" title="Wroclaw,Poland &#10;2022-10-31">
+   <img class="drawing" src="https://s2.loli.net/2022/12/30/VFM2wu49sDix7rv.jpg" alt="L.G" title="Dresden,Germany &#10;2022-12-10">
+   <img class="drawing" src="https://s2.loli.net/2022/12/30/NM1fJTI4KvHSyCZ.jpg" alt="L.G" title="Dresden,Germany &#10;2022-12-11">
+   <img class="drawing" src="https://s2.loli.net/2022/12/30/AzLWHZ1i9xq87dF.jpg" alt="L.G" title="Wroclaw,Poland &#10;2022-12-11">
 </div> 
  </body>
 </html>
