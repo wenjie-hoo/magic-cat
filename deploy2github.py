@@ -1,6 +1,8 @@
 import os
 import subprocess
 import sys
+# usage
+# python deploy2github msg
 
 git_msg = r' '.join(sys.argv[1:])
 hexo_path = os.getcwd()

@@ -1,11 +1,12 @@
-Hi!👋 I am Wenjie(Clark) Hu, currently studying at the Univeristy of Wroclaw in Poland. I am very interested in self-driving and data science, and most of my experience is in Python and its ecosystem of tools. Besides tech, I like playing table tennis, hiking and cultural exchange.
+Bonjour👋 I am Wenjie(Clark) Hu, currently studying data science at the Univeristy of Wroclaw in Poland. I am very interested in autonomous driving and AI fields. My expertise primarily revolves around Python and its ecosystem of toolkits. Beyond my tech interests, I find joy in activities like table tennis, hiking, and engaging in cultural exchanges. I speak Mandarin Chinese🇨🇳 & English 🇬🇧 and am currently learning French 🇫🇷. We're good friends if you listen to<span style="color: pink;"> Taylor Swift</span>.
+
 <br>
 <table rules="none" align="center">
 	<tr>
 		<td>
 			<center>
 			<div>
-				<img class='drawing' src="https://s2.loli.net/2022/08/05/NasGkxwg14IbMyj.jpg" width="100%" />
+				<img class='drawing' src="https://s2.loli.net/2023/09/22/PUXIHfVABeq7nKy.jpg" width="100%" />
 				</div>
 				<br/>
 			</center>
@@ -86,6 +87,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 ***
 
 # Contact
+\+48 516 336 558(text)
 [wenjie.hoo@outlook.com](mailto:wenjie.hoo@outlook.com)
 
 ***

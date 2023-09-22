@@ -2,32 +2,21 @@
 <div id="gallery" >
    <img class="drawing" src="https://s2.loli.net/2022/08/05/tBJmQDA5ZOhMwN6.jpg" alt="Glendalough" title="Glendalough,Ireland &#10;2021-10-10">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/H4Zq6MD9hd7wkgQ.jpg" alt="MU" title="Maynooth,Ireland &#10;2021-9-12">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/UukTsqDH65GvYPS.jpg" alt="Dandan" title="Xiamen,China &#10;2019-9-8">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/YoFHLUgAMVRrBsC.jpg" alt="Bang Kapi" title="Bangkok,Thailand &#10;2018-4-26">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/cYulvI7krmn12ya.jpg" alt="The Royal Mile" title="Edinburgh,Scotland &#10;2020-1-30">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/xAWR8Xe4gUM7IPS.jpg" alt="Edinburgh Castle" title="Edinburgh,Scotland &#10;2020-1-30">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/JfoUqKOPHuWFnN8.jpg" alt="Powerscourt" title="Powerscourt Gardens,Ireland &#10;2021-10-29">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/r9hAQTGvE64BwP5.jpg" alt="Graduation" title="Xiamen,China &#10;2018-10-30">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/V6l7kh4Hf3YWZbF.jpg" alt="Chill" title="Phuket,Thailand &#10;2018-9-23">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/nBtQleKDMzuIyFJ.jpg" alt="Giant's Causeway " title="Belfast,Northern Ireland &#10;2021-12-28">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/3RTYpW59MEnldXU.jpg" alt="Fake football team" title="Howth,Dublin,Ireland &#10;2021-10-3">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/jWwxUTqFV4uty5J.jpg" alt="karaoke" title="Maynooth,Ireland &#10;2022-7-6">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/sD2kUZ8Ad4IcMXV.jpg" alt="Belfast" title="Belfast,Northern Ireland &#10;2021-12-27">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/bD6HA9eVJdLimBq.jpg" alt="Temple Bar" title="Dublin,Ireland &#10;2021-9-14">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/4BbEZHVXPnpR1Fz.jpg" alt="Giant's Causeway " title="Belfast,Northern Ireland &#10;2021-12-28">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/ao1C4V5iGXcvmMY.jpg" alt="WeRide" title="Guangzhou,China &#10;2021-7-6">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/qcKutbsn4PBQUhx.jpg" alt="MU" title="Maynooth,Ireland &#10;2021-9-12">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/3AQkP51TOZflueh.jpg" alt="Wat Chedi Luang" title="Chiang Mai,Thailand &#10;2018-4-22">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/9Lcqo5wOQztyCih.jpg" alt="Dandan" title="Xiamen,China &#10;2019-12-15">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/NtnoiAk4RE18G9Z.jpg" alt="Kota Kinabalu" title="Kota Kinabalu,Malaysia &#10;2019-3-4">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/FTfu2jSZtNC9LJP.jpg" alt="Dayan Tower" title="Xi'an,China &#10;2020-5-30">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/qoGNlDCOTcfxWZu.jpg" alt="Huangpu River" title="Shanghai,China &#10;2017-10-5">
-   <img class="drawing" src="https://s2.loli.net/2022/08/12/YGJhFCRezgtndIc.jpg" alt="Lankawi" title="Langkawi,Malaysia &#10;2019-3-7">
    <img class="drawing" src="https://s2.loli.net/2022/08/12/62EAdIxlRFvyV3K.jpg" alt="Belfast" title="Belfast,Northern Ireland &#10;2021-12-27">
    <img class="drawing" src="https://s2.loli.net/2022/09/10/RE3dk5TcOgrhGIK.jpg" alt="MU" title="Maynooth,Ireland &#10;2022-09-07">
    <img class="drawing" src="https://s2.loli.net/2022/09/10/q7E9BLHOIR2XFMP.jpg" alt="Dublin" title="Dublin, Ireland &#10;2021-09-18">
    <img class="drawing" src="https://s2.loli.net/2022/09/10/pBvVL6NEOQgrtTw.jpg" alt="MU" title="Maynooth,Ireland &#10;2022-09-07">
-   <img class="drawing" src="https://s2.loli.net/2022/11/08/osqe7jn23tMHmzR.jpg" alt="L.G" title="Wroclaw,Poland &#10;2022-10-31">
 </div> 
  </body>
 </html>
