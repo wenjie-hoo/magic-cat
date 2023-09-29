@@ -98,7 +98,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 			padding: 0;
 		}
 		.drawing{
-			width: 1000px;
+			width: 500px;
 			margin: 10px;
 		}
 		.drawing:hover{
@@ -112,10 +112,10 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 			left: 0;
 			z-index: 999;
 			background-repeat: no-repeat;
-			background-attachment: fixed;
+			background-attachment: scroll;
 			background-position: center;
 			background-color: rgba(52, 52, 52, 0.8);
-			background-size: 50%;
+			background-size: 80%;
 		}
 		.wrapper:hover{
 			cursor: zoom-out;
@@ -123,6 +123,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 </style>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=c44f75&w=700&t=tt&d=OPiSos50uhyus60KRek6SBjbWN4-IJIv94V5GD7NaDM&co=e2e0de&cmn=3acc3a&cmo=3acc3a'></script>
+
 <script src="./jquery-3.3.1.min.js"></script>
 <script>
     $(function(){

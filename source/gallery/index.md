@@ -6,7 +6,6 @@
    <img class="drawing" src="https://s2.loli.net/2022/08/05/xAWR8Xe4gUM7IPS.jpg" alt="Edinburgh Castle" title="Edinburgh,Scotland &#10;2020-1-30">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/JfoUqKOPHuWFnN8.jpg" alt="Powerscourt" title="Powerscourt Gardens,Ireland &#10;2021-10-29">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/r9hAQTGvE64BwP5.jpg" alt="Graduation" title="Xiamen,China &#10;2018-10-30">
-   <img class="drawing" src="https://s2.loli.net/2022/08/05/nBtQleKDMzuIyFJ.jpg" alt="Giant's Causeway " title="Belfast,Northern Ireland &#10;2021-12-28">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/3RTYpW59MEnldXU.jpg" alt="Fake football team" title="Howth,Dublin,Ireland &#10;2021-10-3">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/jWwxUTqFV4uty5J.jpg" alt="karaoke" title="Maynooth,Ireland &#10;2022-7-6">
    <img class="drawing" src="https://s2.loli.net/2022/08/05/bD6HA9eVJdLimBq.jpg" alt="Temple Bar" title="Dublin,Ireland &#10;2021-9-14">
@@ -17,6 +16,11 @@
    <img class="drawing" src="https://s2.loli.net/2022/09/10/RE3dk5TcOgrhGIK.jpg" alt="MU" title="Maynooth,Ireland &#10;2022-09-07">
    <img class="drawing" src="https://s2.loli.net/2022/09/10/q7E9BLHOIR2XFMP.jpg" alt="Dublin" title="Dublin, Ireland &#10;2021-09-18">
    <img class="drawing" src="https://s2.loli.net/2022/09/10/pBvVL6NEOQgrtTw.jpg" alt="MU" title="Maynooth,Ireland &#10;2022-09-07">
+   <img class="drawing" src="https://s2.loli.net/2023/09/23/nY7jahmd2EClrJG.jpg" alt="Christmas" title="Katowice,Poland &#10;2022-11-27">
+   <img class="drawing" src="https://s2.loli.net/2023/09/23/Zm4HAsa681OoEWz.jpg" alt="one day trip" title="Klodzko,Poland &#10;2023-02-05">
+   <img class="drawing" src="https://s2.loli.net/2023/09/23/2QoUObd7cLMVI3A.jpg" alt="Puy de Dôme" title="Clermont-Ferrand,France &#10;2023-02-19">
+   <img class="drawing" src="https://s2.loli.net/2023/09/23/YKHrG2lthCAqW5J.jpg" alt="we were drunk" title="Wroclaw,Poland &#10;2023-02-19">   
+   <img class="drawing" src="https://s2.loli.net/2023/09/23/hdyF5HmBGltsA3b.jpg" alt="color festival" title="Wroclaw,Poland &#10;2023-06-10">   
 </div> 
  </body>
 </html>
@@ -89,10 +93,10 @@
 			left: 0;
 			z-index: 999;
 			background-repeat: no-repeat;
-			background-attachment: fixed;
+			background-attachment: scroll;
 			background-position: center;
 			background-color: rgba(52, 52, 52, 0.8);
-			background-size: 50%;
+			background-size: 60%;
 		}
 		.wrapper:hover{
 			cursor: zoom-out;

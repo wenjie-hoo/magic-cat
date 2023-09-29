@@ -23,14 +23,15 @@ nav:
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
-# (see https://fontawesome.com/icons?d=gallery&s=brands);
+# (see https://fontawesome.com/search?f=brands&o=r);
 # only 'mail' is an exception.
 social_links:
   github: https://github.com/wenjie-hoo
   instagram: https://www.instagram.com/clark_hoo/
   linkedin: https://www.linkedin.com/in/wenjie-hu
-  snapchat: https://t.snapchat.com/ZWsYx1SU
+  snapchat: https://t.snapchat.com/WJKj62PW
   # weibo: https://weibo.com/wenjiehoo
+  weixin: https://s2.loli.net/2023/09/22/Ll743X5Pxp68sFd.jpg
   mail: mailto:wenjie.hoo@outlook.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -65,7 +66,7 @@ post:
 # Note: if start_year/end_year not provided, will use current year.
 copyright:
   start_year: 2022
-  end_year:
+  end_year: 2023
 
 ##############################################################################
 # Look and Feel
@@ -159,7 +160,7 @@ utterances:
 # Fill in your Google Analytics tracking ID to enable Google Analytics.
 google_analytics:
   enabled: true
-  id: G-W1VB2378W2
+  id: G-QG4LZ6FK4X
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.
 baidu_analytics:
