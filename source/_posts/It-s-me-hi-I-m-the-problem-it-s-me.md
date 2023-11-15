@@ -11,7 +11,8 @@ tags: lifestyle
 最近特别喜欢ALL TOO WELL，先来100遍。
 
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/r0yq_yXFQhg?si=fLMe6TQT3yjjAc5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'>
+<iframe src="https://www.youtube.com/embed/r0yq_yXFQhg?si=fLMe6TQT3yjjAc5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 
 

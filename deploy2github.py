@@ -41,3 +41,5 @@ retval = os.getcwd()
 print ("cd %s" % retval)
 print('hexo clean')
 subprocess.call('hexo clean', shell=True)
+
+print('done!')

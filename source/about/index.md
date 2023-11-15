@@ -1,4 +1,9 @@
-Bonjour👋 I am Wenjie(Clark) Hu, currently studying data science at the Univeristy of Wroclaw in Poland. I am very interested in autonomous driving and AI fields. My expertise primarily revolves around Python and its ecosystem of toolkits. Beyond my tech interests, I find joy in activities like table tennis, hiking, and engaging in cultural exchanges. I speak Mandarin Chinese🇨🇳 & English 🇬🇧 and am currently learning French 🇫🇷. We're good friends if you listen to<span style="color: pink;"> Taylor Swift</span>.
+<script src="./jquery-3.3.1.min.js"></script>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3kAlKG1AxTRxGIVbkABIpK?utm_source=generator" width="100%" height="80" frameBorder="" allowfullscreen="1" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<br>
+
+Bonjour👋 I am Wenjie(Clark) Hu, currently studying data science at the Univeristy of Wroclaw in Poland. I am very interested in autonomous driving and AI fields. My expertise primarily revolves around Python and its ecosystem of toolkits. Beyond my tech interests, I find joy in activities like table tennis, hiking, and engaging in cultural exchanges. I speak Mandarin Chinese🇨🇳 & English 🇬🇧 and am currently learning French 🇫🇷. If you listen to <span style="color: orange;"> Taylor Swift</span>, we are good friends.
 
 <br>
 <table rules="none" align="center">
@@ -124,7 +129,6 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=c44f75&w=700&t=tt&d=OPiSos50uhyus60KRek6SBjbWN4-IJIv94V5GD7NaDM&co=e2e0de&cmn=3acc3a&cmo=3acc3a'></script>
 
-<script src="./jquery-3.3.1.min.js"></script>
 <script>
     $(function(){
         $('.drawing').click(function(){
