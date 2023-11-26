@@ -27,7 +27,8 @@ subprocess.call('rm -rf 2022 404 about about archives categories css gallery ima
 print('cp -r ../magic-cat/public/* ./')
 subprocess.call(['cp -r ../magic-cat/public/* ./'],shell=True)
 
-
+print('git pull')
+subprocess.call(['git pull'], shell=True)
 print('git add .')
 subprocess.call(['git add .'], shell=True)
 print('git commit -m '+ git_msg)
