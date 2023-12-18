@@ -1,11 +1,12 @@
 <script src="./jquery-3.3.1.min.js"></script>
 
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3kAlKG1AxTRxGIVbkABIpK?utm_source=generator" width="100%" height="80" frameBorder="" allowfullscreen="1" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Iq8oo9XkmmvCQiGOfORiz?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
 
-Bonjour👋 I am Wenjie(Clark) Hu, currently studying data science at the Univeristy of Wroclaw in Poland. I am very interested in autonomous driving and AI fields. My expertise primarily revolves around Python and its ecosystem of toolkits. Beyond my tech interests, I find joy in activities like table tennis, hiking, and engaging in cultural exchanges. I speak Mandarin Chinese🇨🇳 & English 🇬🇧 and am currently learning French 🇫🇷. If you listen to <span style="color: orange;"> Taylor Swift</span>, we are good friends.
+Bonjour👋 I am Wenjie(Clark) Hu, currently studying data science at the Univeristy of Wroclaw in Poland. I am very interested in autonomous driving and AI fields. My experience primarily revolves around Python and its ecosystem of toolkits. Beyond my tech interests, I find joy in activities like table tennis, hiking, and engaging in cultural exchanges. I speak Mandarin Chinese🇨🇳 & English 🇬🇧 and am currently learning French 🇫🇷. If you listen to <span style="color: orange;"> Taylor Swift</span>, we are good friends.
 
 <br>
 <table rules="none" align="center">
@@ -61,7 +62,7 @@ At [WeRide](https://www.weride.ai/en/), I worked as a test-developer responsible
 </table>
 
 ## Test Enginner at <u>MoonX</u>, Shenzhen,China [Dec 2018 - Mar 2021]
-During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely with businesses and delivered self-driving vehicles to clients. I was also responsible for autonomous vehicle road testing and data analysis. I got my hands dirty in Cyber-RT, Linux, Python, and Docker and have comprehensive knowledge of autonomous driving systems.
+During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I was responsible for autonomous vehicle road testing and data analysis. I also worked closely with businesses and delivered self-driving vehicles to clients. I got my hands dirty in Cyber-RT, Linux, Python, and Docker and have comprehensive knowledge of autonomous driving systems.
 <br>
 <table rules="none" align="center">
 	<tr>
@@ -89,7 +90,7 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I worked closely 
 # Education
 
 ## BSc Computer Science & Software Engineering - Maynooth University, Ireland.
-## MSc Data Science(expected 2024) - University of Wroclaw, Poland.
+## MSc Data Science - University of Wrocław, Poland.
 
 ***
 
