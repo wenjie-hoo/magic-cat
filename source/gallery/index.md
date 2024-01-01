@@ -22,6 +22,10 @@
    <img class="drawing" src="https://s2.loli.net/2023/09/23/YKHrG2lthCAqW5J.jpg" alt="we were drunk" title="Wroclaw,Poland &#10;2023-02-19">   
    <img class="drawing" src="https://s2.loli.net/2023/09/23/hdyF5HmBGltsA3b.jpg" alt="color festival" title="Wroclaw,Poland &#10;2023-06-10">   
    <img class="drawing" src="https://s2.loli.net/2023/11/14/gCc7otbxYzTeLJy.jpg" alt="poland independence day" title="Wroclaw,Poland &#10;2023-11-11">
+   <img class="drawing" src="https://s2.loli.net/2023/12/31/b376KCJecAzWrnp.jpg" alt="road trip" title="Perast,
+   Motenegro &#10;2023-12-25">
+   <img class="drawing" src="https://s2.loli.net/2023/12/30/gtv45RUsfK1Sw9F.jpg" alt="road trip" title="Budva,Motenegro &#10;2023-12-24">
+   <img class="drawing" src="https://s2.loli.net/2023/12/30/8XTsAvcr9OqzNxt.jpg" alt="road trip" title="Kotor,Motenegro &#10;2023-12-24">
 </div> 
  </body>
 </html>

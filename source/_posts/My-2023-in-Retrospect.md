@@ -123,7 +123,52 @@ I keep asking who has done this, and this goes again with the idea that for a wh
 -->
 
 
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
+<style>
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		.drawing{
+			width: 500px;
+			margin: 10px;
+		}
+		.drawing:hover{
+			cursor: zoom-in;
+		}
+		.wrapper{
+			position: fixed;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			z-index: 999;
+			background-repeat: no-repeat;
+			background-attachment: scroll;
+			background-position: center;
+			background-color: rgba(52, 52, 52, 0.8);
+			background-size: 80%;
+		}
+		.wrapper:hover{
+			cursor: zoom-out;
+		}
+</style>
+
+
+<script>
+    $(function(){
+        $('.drawing').click(function(){
+            $(this).after("<div class='wrapper'></div>");
+            var imgSrc = $(this).attr('src');
+            $(".wrapper").css("background-image", "url(" + imgSrc + ")");
+            $('.wrapper').fadeIn(1000);
+            $('.wrapper').click(function(){
+                $('.wrapper').fadeOut(1000).remove();
+            });
+        });
+    });
+</script>
 
 
 
