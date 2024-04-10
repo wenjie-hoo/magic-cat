@@ -26,6 +26,9 @@
    Motenegro &#10;2023-12-25">
    <img class="drawing" src="https://s2.loli.net/2023/12/30/gtv45RUsfK1Sw9F.jpg" alt="road trip" title="Budva,Motenegro &#10;2023-12-24">
    <img class="drawing" src="https://s2.loli.net/2023/12/30/8XTsAvcr9OqzNxt.jpg" alt="road trip" title="Kotor,Motenegro &#10;2023-12-24">
+   <img class="drawing" src="https://s2.loli.net/2024/04/11/DzcatpsHE49Krkg.jpg" alt="Venice trip" title="Venice,Italy &#10;2024-03-29">
+   <img class="drawing" src="https://s2.loli.net/2024/04/11/2HA8ZoPBTxXeg6c.jpg" alt="Venice trip" title="Venice,
+   Italy&#10;2023-03-29">
 </div> 
  </body>
 </html>
