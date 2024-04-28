@@ -1,8 +1,6 @@
 <script src="./jquery-3.3.1.min.js"></script>
 
-<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3kAlKG1AxTRxGIVbkABIpK?utm_source=generator" width="100%" height="80" frameBorder="" allowfullscreen="1" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Iq8oo9XkmmvCQiGOfORiz?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5H7ixXZfsNMGbIE5OBSpcb?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br>
 
@@ -144,4 +142,5 @@ During my time at [MoonX](https://www.weride.ai/en/muyue-en/), I was responsible
             });
         });
     });
+	document.querySelector('[title="Play"]').click()
 </script>
